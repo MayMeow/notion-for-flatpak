@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Quick Start
+Comment=Electron quick start example
+Icon=/home/iu/Applications/electron-quick-start-1.0.0.AppImage
+Exec=/home/iu/Applications/electron-quick-start-1.0.0.AppImage
+Terminal=false
+Categories=Minecraft;game
