@@ -12,7 +12,8 @@
     "linux": {
       "category": "Office",
       "icon": "./build/icons/512x512.png"
-    }
+    },
+    "rpm": {}
   },
   "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
@@ -22,7 +23,7 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
+  "author": "May Meow <may@maymeow.com>",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^19.0.0",
