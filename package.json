@@ -26,7 +26,7 @@
   "author": "May Meow <may@maymeow.com>",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^20.0.2",
+    "electron": "^20.1.2",
     "electron-builder": "^23.3.3"
   }
 }
